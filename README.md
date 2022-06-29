@@ -1,5 +1,10 @@
-# C# 
-Object-oriented exercises developed in C# during the third semester of the Computer Engineering Course.
+# C# from basic to advanced
+⚡️ This repository includes all the classes taken throughout the C# Udemy Course from basic to advanced.
 
-### ⚒️ Purpose of exercises:
-Apply knowledge in practical exercises based on the concept of "objects", which can contain data in the form of fields, also known as attributes, and codes, in the form of procedures, also known as methods.
+### ⚒️ Purpose of this repository:
+This repository aims to save the contents learned throughout the course which covers C# fundamentals, Data Structure, Object Oriented, Collections, etc.
+
+### 🖇️ Where to watch?
+
+ [![Udemy](https://img.shields.io/badge/Udemy-836fbd?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/share/101qHe/)
+
