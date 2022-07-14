@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iscoutto/Documents/c-sharp/c-sharp-bootcamp/CursoCSharp/CursoCSharp/CursoCSharp.csproj",
+      "projectUniqueName": "/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "/Users/iscoutto/Documents/c-sharp/c-sharp-bootcamp/CursoCSharp/CursoCSharp/CursoCSharp.csproj",
+      "projectPath": "/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/CursoCSharp.csproj",
       "packagesPath": "/Users/iscoutto/.nuget/packages/",
-      "outputPath": "/Users/iscoutto/Documents/c-sharp/c-sharp-bootcamp/CursoCSharp/CursoCSharp/obj/",
+      "outputPath": "/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iscoutto/.nuget/NuGet/NuGet.Config"

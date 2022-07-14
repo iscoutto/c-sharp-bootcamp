@@ -5,8 +5,7 @@ namespace CursoCSharp.Fundamentos
     {
         public static void Executar()
         {
-            Console.WriteLine("Teste executar");
+            Console.WriteLine("Teste da função executar.");
         }
     }
 }
-

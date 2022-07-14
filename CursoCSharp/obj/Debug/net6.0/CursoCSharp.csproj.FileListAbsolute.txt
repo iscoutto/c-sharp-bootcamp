@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/bin/Debug/net6.0/CursoCSharp
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.deps.json
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.runtimeconfig.json
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.dll
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.pdb
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfo.cs
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.dll
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/refint/CursoCSharp.dll
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.pdb
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.genruntimeconfig.cache
+/Users/iscoutto/Documents/c-sharp-bootcamp/CursoCSharp/obj/Debug/net6.0/ref/CursoCSharp.dll
